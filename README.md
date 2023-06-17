@@ -1,5 +1,5 @@
 # Portfolio
-This is my portfolio, showcasing my work and skills as a [your profession/title]. It is built using HTML, CSS, and React.js.
+This is my portfolio, showcasing my work and skills as a Web Developer. It is built using HTML, CSS, and React.js.
 
 # Features
 Responsive design for optimal viewing experience across devices.
